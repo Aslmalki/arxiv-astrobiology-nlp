@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Data and outputs
+data/raw/
+data/processed/
+results/
+figures/
+paper_outputs/
+outputs/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Binary and document artifacts
+*.pdf
+*.png
+*.svg

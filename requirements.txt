@@ -1,0 +1,17 @@
+arxiv
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+umap-learn
+bertopic
+sentence-transformers
+hdbscan
+gensim
+tqdm
+plotly
+kaleido
+top2vec
+torch
