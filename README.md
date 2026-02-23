@@ -81,7 +81,7 @@ Generated files:
 ## Data Availability
 
 Full dataset and archived outputs will be released at:  
-**[Zenodo DOI Placeholder]**
+**10.5281/zenodo.18750923]**
 
 ## Citation
 
